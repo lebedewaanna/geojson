@@ -1,0 +1,2915 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9226887,
+          55.0288307
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Новосибирск"
+      },
+      "id": "node/54"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.823769,
+          64.563385
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Северодвинск"
+      },
+      "id": "node/26901966"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3688041,
+          61.789221
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Петрозаводск"
+      },
+      "id": "node/26903504"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8933913,
+          59.2189391
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Вологда"
+      },
+      "id": "node/26951330"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9208284,
+          56.858675
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Тверь"
+      },
+      "id": "node/27000366"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2757862,
+          58.5209862
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Великий Новгород"
+      },
+      "id": "node/27017589"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.415731,
+          59.722256
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Пушкин"
+      },
+      "id": "node/27024680"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1252083,
+          59.5680407
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Гатчина"
+      },
+      "id": "node/27025179"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3343465,
+          57.8173923
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Псков"
+      },
+      "id": "node/27025689"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5105838,
+          54.710128
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Калининград"
+      },
+      "id": "node/27048976"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.527922,
+          56.342361
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Великие Луки"
+      },
+      "id": "node/27072632"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0461261,
+          54.7814057
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Смоленск"
+      },
+      "id": "node/27072633"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3668288,
+          53.2423778
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Брянск"
+      },
+      "id": "node/27073428"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1923123,
+          51.7309249
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Курск"
+      },
+      "id": "node/27090043"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0642127,
+          52.9709262
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Орёл"
+      },
+      "id": "node/27096008"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5873394,
+          50.5955595
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Белгород"
+      },
+      "id": "node/27119039"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3679049,
+          45.1907635
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Евпатория"
+      },
+      "id": "node/27212295"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.316229,
+          59.938732
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Санкт-Петербург"
+      },
+      "id": "node/27490597"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.8855768,
+          43.1150678
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Владивосток"
+      },
+      "id": "node/27503886"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6007886,
+          56.8382071
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Екатеринбург"
+      },
+      "id": "node/27503892"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1014927,
+          53.1956255
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Самара"
+      },
+      "id": "node/27503945"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.371529,
+          54.991375
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Омск"
+      },
+      "id": "node/27503946"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1115022,
+          55.7946485
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Казань"
+      },
+      "id": "node/27504067"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.4025547,
+          55.1598408
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Челябинск"
+      },
+      "id": "node/27504156"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.947499,
+          54.7261409
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Уфа"
+      },
+      "id": "node/27504327"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5153353,
+          48.7081906
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Волгоград"
+      },
+      "id": "node/27504363"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2318528,
+          58.0108531
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Пермь"
+      },
+      "id": "node/27504531"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.034683,
+          51.530018
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Саратов"
+      },
+      "id": "node/27504590"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2005858,
+          51.6605982
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Воронеж"
+      },
+      "id": "node/27505044"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4189187,
+          53.5098845
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Тольятти"
+      },
+      "id": "node/27505046"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9772396,
+          45.0351532
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Краснодар"
+      },
+      "id": "node/27505129"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8933705,
+          57.6263877
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ярославль"
+      },
+      "id": "node/27505266"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7788448,
+          53.3475493
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Барнаул"
+      },
+      "id": "node/27505285"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279829,
+          52.2891225
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Иркутск"
+      },
+      "id": "node/27505335"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.14653,
+          53.7582436
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Новокузнецк"
+      },
+      "id": "node/27505477"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0978517,
+          51.7671248
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Оренбург"
+      },
+      "id": "node/27505509"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7425039,
+          54.6295687
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Рязань"
+      },
+      "id": "node/27505582"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0190437,
+          53.1953477
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Пенза"
+      },
+      "id": "node/27505663"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.542274,
+          57.153534
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Тюмень"
+      },
+      "id": "node/27505666"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0051395,
+          56.3264816
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Нижний Новгород"
+      },
+      "id": "node/27505889"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.928362,
+          47.215495
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Таганрог"
+      },
+      "id": "node/29980667"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.723109,
+          43.5854823
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Сочи"
+      },
+      "id": "node/34043670"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61754,
+          54.1930321
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Тула"
+      },
+      "id": "node/34389350"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7540343,
+          43.2319005
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Назрань"
+      },
+      "id": "node/34395338"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.97077,
+          57.9076001
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Нижний Тагил"
+      },
+      "id": "node/34506055"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.0627028,
+          67.5035662
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Воркута"
+      },
+      "id": "node/34506389"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9690934,
+          45.0433245
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ставрополь"
+      },
+      "id": "node/36714827"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5971405,
+          59.7491142
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Колпино"
+      },
+      "id": "node/60081897"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.131153,
+          54.673355
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Светлый"
+      },
+      "id": "node/60237889"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5963775,
+          52.6051488
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Липецк"
+      },
+      "id": "node/76611479"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.990612,
+          57.052505
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Воткинск"
+      },
+      "id": "node/79736088"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7690711,
+          44.7239578
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Новороссийск"
+      },
+      "id": "node/87705691"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.611913,
+          55.0951738
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Обнинск"
+      },
+      "id": "node/90495941"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5966578,
+          43.4769604
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Нальчик"
+      },
+      "id": "node/93711720"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1233093,
+          51.5013775
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Энгельс"
+      },
+      "id": "node/101480194"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6666241,
+          58.6035661
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Киров"
+      },
+      "id": "node/113548786"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5142417,
+          55.9341491
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Долгопрудный"
+      },
+      "id": "node/143561186"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4396994,
+          55.8917293
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Химки"
+      },
+      "id": "node/143564891"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8558908,
+          58.0489536
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Рыбинск"
+      },
+      "id": "node/148899210"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9269141,
+          57.7679158
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Кострома"
+      },
+      "id": "node/148901123"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9812104,
+          56.9956855
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Иваново"
+      },
+      "id": "node/148901125"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4449485,
+          55.784515
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Электросталь"
+      },
+      "id": "node/156167469"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4411898,
+          55.8553511
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ногинск"
+      },
+      "id": "node/156167485"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.0706669,
+          44.039775
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Пятигорск"
+      },
+      "id": "node/160258541"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7198736,
+          47.2222596
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ростов-на-Дону"
+      },
+      "id": "node/160569651"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9523434,
+          56.4887526
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Томск"
+      },
+      "id": "node/163043169"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.6146311,
+          66.5298656
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Салехард"
+      },
+      "id": "node/176957217"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.872586,
+          56.0091173
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Красноярск"
+      },
+      "id": "node/178951928"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.3421169,
+          55.4409357
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Курган"
+      },
+      "id": "node/179374935"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9025005,
+          59.1221553
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Череповец"
+      },
+      "id": "node/188558082"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.963653,
+          51.957775
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Горно-Алтайск"
+      },
+      "id": "node/191636706"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.048257,
+          44.2285229
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Черкесск"
+      },
+      "id": "node/191638748"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8868803,
+          56.6315556
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Йошкар-Ола"
+      },
+      "id": "node/191640862"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.104053,
+          44.6062079
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Майкоп"
+      },
+      "id": "node/191641244"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5048717,
+          42.9830241
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Махачкала"
+      },
+      "id": "node/191644503"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2692214,
+          46.3073288
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Элиста"
+      },
+      "id": "node/191648647"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8352024,
+          61.6685237
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Сыктывкар"
+      },
+      "id": "node/191650708"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.18383,
+          54.18671
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Саранск"
+      },
+      "id": "node/191651581"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7319787,
+          62.0274078
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Якутск"
+      },
+      "id": "node/191652335"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4300679,
+          51.719079
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Кызыл"
+      },
+      "id": "node/191655065"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.6471356,
+          53.0199838
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Петропавловск-Камчатский"
+      },
+      "id": "node/191667890"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4075203,
+          56.1288899
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Владимир"
+      },
+      "id": "node/191698855"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.727438,
+          46.9574273
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Южно-Сахалинск"
+      },
+      "id": "node/191723030"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.4523988,
+          52.7216164
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Тамбов"
+      },
+      "id": "node/191725784"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0071044,
+          67.6380175
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Нарьян-Мар"
+      },
+      "id": "node/191733890"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0189684,
+          61.0035254
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ханты-Мансийск"
+      },
+      "id": "node/191736223"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.9269836,
+          48.79329
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Биробиджан"
+      },
+      "id": "node/191738860"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.399207,
+          55.7419774
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Набережные Челны"
+      },
+      "id": "node/191749240"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7519454,
+          48.7862021
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Волжский"
+      },
+      "id": "node/191752285"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3952717,
+          61.2419217
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Сургут"
+      },
+      "id": "node/191754078"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0225414,
+          50.542818
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Комсомольск-на-Амуре"
+      },
+      "id": "node/191754954"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9616172,
+          53.6194416
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Стерлитамак"
+      },
+      "id": "node/191756795"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6334907,
+          56.1517085
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Братск"
+      },
+      "id": "node/191758663"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4617405,
+          56.2382157
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Дзержинск"
+      },
+      "id": "node/191761177"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2154859,
+          47.7094622
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Шахты"
+      },
+      "id": "node/191771467"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8882138,
+          52.5443167
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ангарск"
+      },
+      "id": "node/191773560"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5590829,
+          60.9384134
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Нижневартовск"
+      },
+      "id": "node/191774769"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7492072,
+          53.8879117
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Прокопьевск"
+      },
+      "id": "node/191779212"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2013217,
+          69.3502367
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Норильск"
+      },
+      "id": "node/191780610"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.1294061,
+          44.9993585
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Армавир"
+      },
+      "id": "node/191824980"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6792625,
+          55.1674213
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Златоуст"
+      },
+      "id": "node/191843200"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.917797,
+          56.415451
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Каменск-Уральский"
+      },
+      "id": "node/191843504"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.101986,
+          47.41066
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Новочеркасск"
+      },
+      "id": "node/191846117"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8150443,
+          55.9190049
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Королёв"
+      },
+      "id": "node/191849717"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.8926,
+          42.8246489
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Находка"
+      },
+      "id": "node/191850710"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1525935,
+          47.5182668
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Волгодонск"
+      },
+      "id": "node/191851580"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.8036958,
+          59.4084171
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Березники"
+      },
+      "id": "node/191852866"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2176174,
+          51.5276264
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Рубцовск"
+      },
+      "id": "node/191855308"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.89377,
+          55.6783142
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Люберцы"
+      },
+      "id": "node/191858851"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.1087125,
+          55.0505685
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Миасс"
+      },
+      "id": "node/191863710"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9520752,
+          43.7972447
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Уссурийск"
+      },
+      "id": "node/191864581"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.3116439,
+          56.3743713
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ковров"
+      },
+      "id": "node/191866198"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7670121,
+          55.0938743
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Коломна"
+      },
+      "id": "node/191867420"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9431941,
+          56.9051246
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Первоуральск"
+      },
+      "id": "node/191871001"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2668096,
+          55.678223
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Одинцово"
+      },
+      "id": "node/191871925"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9475941,
+          44.6245814
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Невинномысск"
+      },
+      "id": "node/191872996"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7157283,
+          43.9055311
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Кисловодск"
+      },
+      "id": "node/191875199"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6254435,
+          54.2177925
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Димитровград"
+      },
+      "id": "node/191878451"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4920123,
+          56.122651
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Новочебоксарск"
+      },
+      "id": "node/191879312"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4195533,
+          54.9155247
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Серпухов"
+      },
+      "id": "node/191880180"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5855184,
+          43.246916
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Хасавюрт"
+      },
+      "id": "node/191880979"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4048003,
+          50.0808422
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Камышин"
+      },
+      "id": "node/191882252"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0527689,
+          55.5792902
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Муром"
+      },
+      "id": "node/191884653"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9810423,
+          55.8062175
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Орехово-Зуево"
+      },
+      "id": "node/191885615"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2478094,
+          56.0884031
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Нефтекамск"
+      },
+      "id": "node/191886499"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9347532,
+          47.7542512
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Новошахтинск"
+      },
+      "id": "node/191889906"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4953964,
+          56.2694846
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ачинск"
+      },
+      "id": "node/191890746"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5003298,
+          52.6219865
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Елец"
+      },
+      "id": "node/191891797"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1359898,
+          56.3153284
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Сергиев Посад"
+      },
+      "id": "node/191892583"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6101,
+          61.090309
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Нефтеюганск"
+      },
+      "id": "node/191894808"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4475807,
+          63.2002917
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ноябрьск"
+      },
+      "id": "node/191897505"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.881012,
+          56.603161
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Северск"
+      },
+      "id": "node/191902212"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8165228,
+          55.3857356
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Арзамас"
+      },
+      "id": "node/191902906"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2887648,
+          42.057858
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Дербент"
+      },
+      "id": "node/191903740"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.1800977,
+          43.3529909
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Артём"
+      },
+      "id": "node/191911296"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1199863,
+          55.5972801
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Жуковский"
+      },
+      "id": "node/191913805"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2512924,
+          58.1998048
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Тобольск"
+      },
+      "id": "node/191914736"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2598115,
+          54.5101087
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Калуга"
+      },
+      "id": "node/246459003"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5220842,
+          44.6054434
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Севастополь"
+      },
+      "id": "node/251073791"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.500893,
+          52.033409
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Чита"
+      },
+      "id": "node/251645471"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1024858,
+          44.9521459
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Симферополь"
+      },
+      "id": "node/252176252"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.214241,
+          55.991971
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Зеленоград"
+      },
+      "id": "node/253041038"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4099549,
+          53.9680705
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Белорецк"
+      },
+      "id": "node/253261493"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3196942,
+          55.8204707
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Красногорск"
+      },
+      "id": "node/253438546"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8194777,
+          56.4774374
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Сарапул"
+      },
+      "id": "node/255594586"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7680693,
+          55.4368213
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Домодедово"
+      },
+      "id": "node/256361832"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7087142,
+          55.5571496
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Видное"
+      },
+      "id": "node/256361842"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2282099,
+          55.5709361
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Раменское"
+      },
+      "id": "node/256361843"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.856555,
+          55.7622453
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Реутов"
+      },
+      "id": "node/256361846"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8461892,
+          56.0104274
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Пушкино"
+      },
+      "id": "node/256361884"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.07497,
+          68.970665
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Мурманск"
+      },
+      "id": "node/269342417"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5286774,
+          64.5410251
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Архангельск"
+      },
+      "id": "node/276628719"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0762968,
+          48.4812568
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Хабаровск"
+      },
+      "id": "node/277060995"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1068095,
+          54.75795
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Бердск"
+      },
+      "id": "node/280304251"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.7706247,
+          59.6493177
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Соликамск"
+      },
+      "id": "node/285736628"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6372105,
+          42.8921817
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Каспийск"
+      },
+      "id": "node/287660963"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5733483,
+          59.6051267
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Серов"
+      },
+      "id": "node/288126203"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.833202,
+          51.298038
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Старый Оскол"
+      },
+      "id": "node/336140673"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.290943,
+          54.011013
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Новомосковск"
+      },
+      "id": "node/336306378"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.819141,
+          52.01812
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Балаково"
+      },
+      "id": "node/344967885"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9373707,
+          55.7997662
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Балашиха"
+      },
+      "id": "node/359535254"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7339358,
+          55.9094928
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Мытищи"
+      },
+      "id": "node/360001149"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5453056,
+          55.4308841
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Подольск"
+      },
+      "id": "node/360001895"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0871213,
+          55.3550907
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Кемерово"
+      },
+      "id": "node/390614421"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8160376,
+          55.6412879
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Нижнекамск"
+      },
+      "id": "node/553037933"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.742348,
+          47.138527
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Батайск"
+      },
+      "id": "node/654179991"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8576575,
+          44.0470042
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ессентуки"
+      },
+      "id": "node/683814442"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.403373,
+          54.3150278
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ульяновск"
+      },
+      "id": "node/711715624"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2480999,
+          56.1399598
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Чебоксары"
+      },
+      "id": "node/740732715"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.672695,
+          58.1405719
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Глазов"
+      },
+      "id": "node/920525617"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.744051,
+          60.709217
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Выборг"
+      },
+      "id": "node/1009135181"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.68211,
+          43.024593
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Владикавказ"
+      },
+      "id": "node/1168567868"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.9811297,
+          53.4070173
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Магнитогорск"
+      },
+      "id": "node/1244147408"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0399737,
+          58.5555391
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Кирово-Чепецк"
+      },
+      "id": "node/1376491063"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4738015,
+          51.2305015
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Орск"
+      },
+      "id": "node/1416924022"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5839105,
+          51.8357841
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Улан-Удэ"
+      },
+      "id": "node/1457469393"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.160255,
+          53.978512
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Узловая"
+      },
+      "id": "node/1493423723"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6934308,
+          43.3197031
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Грозный"
+      },
+      "id": "node/1522654732"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4406019,
+          53.72068
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Абакан"
+      },
+      "id": "node/1588233141"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7123042,
+          56.6579435
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Нерюнгри"
+      },
+      "id": "node/1625195915"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5337378,
+          50.2600417
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Благовещенск"
+      },
+      "id": "node/1643102325"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.2103071,
+          56.8529729
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Ижевск"
+      },
+      "id": "node/1679639726"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9915576,
+          55.9206499
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Щёлково"
+      },
+      "id": "node/1684082165"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6174782,
+          55.7505412
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Москва"
+      },
+      "id": "node/1686293227"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6799167,
+          66.085196
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Новый Уренгой"
+      },
+      "id": "node/1711559378"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.467061,
+          45.3563405
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Керчь"
+      },
+      "id": "node/1830695012"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6816824,
+          55.322518
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Воскресенск"
+      },
+      "id": "node/2095029787"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.2963777,
+          54.9005008
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Альметьевск"
+      },
+      "id": "node/2173235770"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.924641,
+          53.361687
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Салават"
+      },
+      "id": "node/2279757010"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2148673,
+          52.5394905
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Бийск"
+      },
+      "id": "node/2452999214"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8078832,
+          59.5645655
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Магадан"
+      },
+      "id": "node/2893369031"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0263304,
+          45.1324913
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Михайловск"
+      },
+      "id": "node/3033924842"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.474121,
+          53.15538
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Сызрань"
+      },
+      "id": "node/4323731759"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0326203,
+          46.3498308
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Астрахань"
+      },
+      "id": "node/4736064990"
+    }
+  ]
+}
